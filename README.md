@@ -3,23 +3,23 @@
 
 # APB
 
-[Config](Info/Config/Config.md)  
-[Characters](Info/Characters/Overview.md)
+[Config](Info/Config/Config.html)  
+[Characters](Info/Characters/Overview.html)
 
 ### Weapons
 
-[Armas Account Wide Permanent](Info/WeaponList/Armas.md)  
-[Contact Activity](Info/WeaponList/Contact.md)  
-[Legendaries](Info/WeaponList/Legendaries.md)  
-[Permanent 1-Slot](Info/WeaponList/Perm1.md)  
+[Armas Account Wide Permanent](Info/WeaponList/Armas.html)  
+[Contact Activity](Info/WeaponList/Contact.html)  
+[Legendaries](Info/WeaponList/Legendaries.html)  
+[Permanent 1-Slot](Info/WeaponList/Perm1.html)  
 
 ### Spendings
 
-[G1C spent](Info/Spendings/G1C_Spent.md)  
-[JMB Purchases](Info/Spendings/JMBs.md)  
-[Purchase History](Info/Spendings/Purchase_History.md)  
+[G1C spent](Info/Spendings/G1C_Spent.html)  
+[JMB Purchases](Info/Spendings/JMBs.html)  
+[Purchase History](Info/Spendings/Purchase_History.html)  
 
 # PC
 
-[Specs](Info/PC/Specs.md)  
-[OBS Settings](Info/PC/OBS.md)  
+[Specs](Info/PC/Specs.html)  
+[OBS Settings](Info/PC/OBS.html)  
